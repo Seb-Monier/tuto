@@ -23,12 +23,3 @@ Après quelques minutes, vous recevrez un e-mail de confirmation.
 ![](images/tel-fusion-360.png)
 
 ### Vous pouvez maintenant continuer sur --> [1er pas sur Fusion 360](1er-pas-fusion-360.md)
-
-## Line breaks
-
-```
-End a line with two spaces  
-to create a line break.
-
-Or use a blank line for a new paragraph.
-``` -->
