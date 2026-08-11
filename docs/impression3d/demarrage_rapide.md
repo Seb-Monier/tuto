@@ -9,9 +9,9 @@ Ou sur l'un des sites de partage de modèles 3D: [Où trouver des modèles 3D ?]
  
 ## II. Installation et configuration de Bambu Studio
 
-#### 1. Télécharger et installer  <a href="https://bambulab.com/download" target="_blank" rel="noopener noreferrer"> Bambu Studio </a>  
-A la première ouverture de Bambu Studio, vous serez invité à sélectionner différents paramètres. 
-Laisser les paramètres par défaut et cliquer sur suivant jusqu'à arriver sur l'interface ci-dessous.  
+#### 1. Télécharger et installer <a href="https://bambulab.com/download" target="_blank" rel="noopener noreferrer"> Bambu Studio </a>
+À la première ouverture de Bambu Studio, vous serez invité à sélectionner différents paramètres.
+Laissez les paramètres par défaut et cliquez sur suivant jusqu'à arriver sur l'interface ci-dessous.
  
    <!--#### 2. Sélectionner de la région
 
@@ -87,13 +87,13 @@ Si besoin, d'autres outils sont disponibles pour modifier manuellement, la posit
 
 #### 6. Paramétrage de l'impression
 
-Vérifier que le filament (matière), est bien du **PLA**  
-Sélectionner le profil de paramétrage **0.28mm Extra Draft**
+Vérifiez que le filament (matière) est bien du **PLA**.  
+Sélectionnez le profil de paramétrage **0.28mm Extra Draft**.
 
 ![](images/bambu/parametrage.jpeg)
 
-Cliquer sur **Supports** et cocher la case **Activer les supports**  
-Puis cliquer sur **Trancher le plateau**
+Cliquez sur **Supports** et cochez la case **Activer les supports**.  
+Puis cliquez sur **Trancher le plateau**.
 
 ![](images/bambu/supports.jpeg)
 
@@ -107,11 +107,11 @@ Vous devriez avoir à peu près le même temps d'impression et quantité de mati
 
 ---
 
-#### 8.Exporter le fichier tranché (.3mf)
+#### 8. Exporter le fichier tranché (.3mf)
 
-Cliquer sur la flèche et sélectionner **Exporter le fichier tranché du plateau**.    
-Puis cliquez sur le bouton **Exporter le fichier tranché du plateau**  
-Enregistrer le fichier .3mf sur votre ordinateur. 
+Cliquez sur la flèche et sélectionnez **Exporter le fichier tranché du plateau**.    
+Puis cliquez sur le bouton **Exporter le fichier tranché du plateau**.  
+Enregistrez le fichier .3mf sur votre ordinateur.
 
 ![](images/bambu/export.jpeg)
 
@@ -128,8 +128,8 @@ Utiliser votre adresse mail étudiante.
 
 ### 2. Ajouter les imprimantes (WorkGroup)
 
-Dans 3D Printer OS cliquer sur **Printers** puis sur ![](images/3dprinteros/points.jpeg){ align=center width="30" class="off-glb"} et sur **Add workgroup Printers**  
-Demander le code d'accès au responsable.
+Dans 3D Printer OS, cliquez sur **Printers** puis sur ![](images/3dprinteros/points.jpeg){ align=center width="30" class="off-glb"} et sur **Add workgroup Printers**.  
+Demandez le code d'accès au responsable.
 
 ![](images/3dprinteros/workgroup.jpeg)
 
@@ -151,13 +151,13 @@ Après avoir chargé le fichier, cliquez sur **Print**.
 ![](images/3dprinteros/print.jpeg)
 
 
-Sélectionner l'imprimante 3D qui vous convient.  
-Puis cliquer sur **Queue**
+Sélectionnez l'imprimante 3D qui vous convient.  
+Puis cliquez sur **Queue**.
 
 ![](images/3dprinteros/select-printer.jpeg) 
 
-Sélectionner la matière et la couleur à utiliser.
-Puis cliquer sur **Queue**
+Sélectionnez la matière et la couleur à utiliser.
+Puis cliquez sur **Queue**.
 
 ![](images/3dprinteros/queue.jpeg)
 
@@ -166,26 +166,26 @@ Puis cliquer sur **Queue**
 
 ## IV. Préparation de l'imprimante 3D
 
-Vérifier sur l'imprimante 3D :
+Vérifiez sur l'imprimante 3D :
 
- - [x]  Que le plateau d'impression est vide et sans résidu
+ - [x] Que le plateau d'impression est vide et sans résidu
  - [x] Que le plateau soit bien positionné  
  - [x] Que rien ne gêne les axes  
  - [x] Que la quantité de filaments est suffisante pour votre impression,  
- *voir onglet aperçu de Bambu Studio* 
+ *voir l'onglet aperçu de Bambu Studio* 
 
 
-<font size="6"> **:warning: Prévenir un responsable pour qu'il puisse valider l'impression et l'envoyer en production. :warning:** </font>
+<font size="6"> **:warning: Prévenez un responsable pour qu'il puisse valider l'impression et l'envoyer en production. :warning:** </font>
 
-:warning: **Rester impérativement, pour vérifier les premières couches d'impression.** :warning:  
+:warning: **Restez impérativement là pour vérifier les premières couches d'impression.** :warning:  
 C'est souvent à ce moment que l'on détecte les problèmes d'impression.
  ---
 
 ## V. Récupération de votre impression 3D
 
-Une fois l'impression terminée : 
-Ouvrir la porte et décoller les traits de calibration sur le devant du plateau
-Puis décoller vos pièces 
-Si la pièce a du mal à se décoller demander l'aide d'un responsable.  
+Une fois l'impression terminée :  
+Ouvrez la porte et décollez les traits de calibration sur le devant du plateau.  
+Puis décollez vos pièces.  
+Si la pièce a du mal à se décoller, demandez l'aide d'un responsable.  
 
 Si vous voulez en savoir plus sur l'impression 3D --> [Les bases de l'impression 3D](les-bases-de-limpression-3d.md)

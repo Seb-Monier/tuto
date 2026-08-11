@@ -1,5 +1,5 @@
 Fraiseuse 3 axes numérique Bois
 
-Fraiseuse 3 axes numérique metal
+Fraiseuse 3 axes numérique métal
 
-Microfaiseuse 6 axes aluminuim , bois, cire.
+Microfraiseuse 6 axes aluminium, bois, cire.

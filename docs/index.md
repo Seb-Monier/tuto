@@ -23,7 +23,7 @@ Vous pouvez demander a etre former quelque soit votre fomation initiale.
     <a href="technologies/impression3d.md">
       <img src="img\picto-imp3d.svg" alt="Impression 3D" width="200" class="off-glb">
     </a><br>
-    <em>Impresion 3D  <br> Fabrication additive</em>
+    <em>Impression 3D  <br> Fabrication additive</em>
   </div>
   <div style="display: inline-block; text-align: center;margin: 10px 20px;">
     <a href="technologies/decoupe-laser.md">

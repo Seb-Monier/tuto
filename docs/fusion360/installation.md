@@ -1,30 +1,28 @@
 # Installation de Fusion 360 Education
 
-<!-- ### I. Creation du compte éducation Fusion 360: -->
+<!-- ### I. Création du compte éducation Fusion 360 : -->
 
-#### 1. Créer votre compte éducation Fusion 360 : <a href="https://www.autodesk.com/fr/education/edu-software/overview#FSN" target="_blank" rel="noopener noreferrer">Création compte Fusion 360 Education</a>   
+#### 1. Créer votre compte éducation Fusion 360 : <a href="https://www.autodesk.com/fr/education/edu-software/overview#FSN" target="_blank" rel="noopener noreferrer">Création du compte Fusion 360 Education</a>
 
-Aprés quelques secondes, vous serez rediriger sur cette page : 
+Après quelques secondes, vous serez redirigé vers cette page :
 
-![](images/plan-abonnement.png)  
+![](images/plan-abonnement.png)
 
-#### 2. Séléctioner votre stastus : Etudiant ou Enseignant    
+#### 2. Sélectionner votre statut : Étudiant ou Enseignant
 
-#### 3. Remplir le formulaire en utilisant votre email etudiant.  
-Cliquer sur continuer pour chaque etapes du formulaire.  
-Pour la date d'optation du diplome, il saggi de la date d'optention envisagé.  
-Pour le document justificatif, vous pouvez mettre votre attestation d'incription à l'ecole. 
-Aprés quelques minutes vous recevrez un mail de confirmation.
+#### 3. Remplir le formulaire en utilisant votre adresse e-mail étudiante.
+Cliquez sur continuer pour chaque étape du formulaire.
+Pour la date d'obtention du diplôme, il s'agit de la date prévue d'obtention envisagée.
+Pour le document justificatif, vous pouvez mettre votre attestation d'inscription à l'école.
+Après quelques minutes, vous recevrez un e-mail de confirmation.
 
-#### 4. Connectez vous ensuite sur le site avec vos identifiants.
+#### 4. Connectez-vous ensuite sur le site avec vos identifiants.
 
-#### 5. Enfin télécharger et installer Fusion 360 : <a href="https://www.autodesk.com/fr/products/fusion-360/personal-download" target="_blank" rel="noopener noreferrer"> Téléchargement de Fusion 360 Education </a>   
+#### 5. Enfin, téléchargez et installez Fusion 360 : <a href="https://www.autodesk.com/fr/products/fusion-360/personal-download" target="_blank" rel="noopener noreferrer">Téléchargement de Fusion 360 Education</a>
 
-![](images/tel-fusion-360.png)  
+![](images/tel-fusion-360.png)
 
-###Vous pouvez maintenant continuer sur --> [1er pas sur Fusion 360](1er-pas-fusion-360.md)
-
-<!-- https://dl.appstreaming.autodesk.com/production/installers/Fusion%20Admin%20Install.exe
+### Vous pouvez maintenant continuer sur --> [1er pas sur Fusion 360](1er-pas-fusion-360.md)
 https://dl.appstreaming.autodesk.com/production/installers/Autodesk%20Fusion%20Admin%20Install.pkg
 
 
