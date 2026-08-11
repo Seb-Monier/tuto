@@ -23,8 +23,6 @@ Après quelques minutes, vous recevrez un e-mail de confirmation.
 ![](images/tel-fusion-360.png)
 
 ### Vous pouvez maintenant continuer sur --> [1er pas sur Fusion 360](1er-pas-fusion-360.md)
-https://dl.appstreaming.autodesk.com/production/installers/Autodesk%20Fusion%20Admin%20Install.pkg
-
 
 ## Line breaks
 
