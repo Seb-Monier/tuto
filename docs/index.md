@@ -71,7 +71,7 @@ hide:
 
   <div style="border: 1px solid #cbd5e1; border-radius: 10px; padding: 24px; background: #f0ffed; text-align: center; display: flex; flex-direction: column; align-items: center; justify-content: space-between; height: 100%; font-size: 0.8rem;">
     <div>
-    <p><a href="fusion360/1er-pas-fusion-360.md" class="md-button md-button--primary" style="font-size: 1rem; padding: 0.6rem 1rem;">Fusion 360</a></p>
+    <p><a href="fusion360/installation.md" class="md-button md-button--primary" style="font-size: 1rem; padding: 0.6rem 1rem;">Fusion 360</a></p>
       <p>
       Création du compte éducation<br>
       Présentation de l'environnement<br>
