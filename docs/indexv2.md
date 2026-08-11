@@ -18,6 +18,7 @@ hide:
   </p>
 </div>
 
+## Téchnologies
 <div style="text-align: center;">
   <div style="display: inline-block; text-align: center; margin: 10px 20px;">
     <a href="technologies/impression3d.md">

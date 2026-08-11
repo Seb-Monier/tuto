@@ -10,13 +10,15 @@ hide:
 </div>
 
 <div style="text-align: left; margin: 24px 0 36px 0;">
-  <p style="font-size: .80rem; line-height: 1.8; max-width: 1000px; margin: 0 auto;">
+  <p style="font-size: .80rem; line-height: 1.8;  margin: 0 auto;">
     Vous trouverez ici les informations utiles pour découvrir les plateformes technologiques à votre disposition, apprendre à utiliser les machines et préparer vos projets.<br>
     L'utilisation des machines est disponible pour tous les membres de l'organisation.<br>
     Elle est soumise à des règles de sécurité et d'utilisation.<br>
     Vous pouvez demander à être formé, quelle que soit votre formation initiale, et y être habilité pour une utilisation en toute autonomie.
   </p>
 </div>
+
+## Téchnologies :
 
 <div style="text-align: center;">
   <div style="display: inline-block; text-align: center; margin: 10px 20px;">
@@ -54,7 +56,7 @@ hide:
   </div>
 </div>
 
-## Accès rapide
+## Accès rapide :
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(240px, 1fr)); gap: 24px; margin: 36px 0;">
 
