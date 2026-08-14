@@ -1,9 +1,0 @@
-<svg viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg">
-  <rect x="0" y="0" width="200" height="200" rx="28" fill="#52B788"/>
-  <!-- three recycle arrows arranged in triangle -->
-  <g fill="#FFFFFF">
-    <path d="M100 42 L122 80 L109 80 L109 92 L91 92 L91 80 L78 80 Z"/>
-    <path d="M100 42 L122 80 L109 80 L109 92 L91 92 L91 80 L78 80 Z" transform="rotate(120 100 100)"/>
-    <path d="M100 42 L122 80 L109 80 L109 92 L91 92 L91 80 L78 80 Z" transform="rotate(240 100 100)"/>
-  </g>
-</svg>

@@ -1,5 +1,47 @@
-:root  > * {
-  --md-primary-fg-color:        #EE0F0F;
-  --md-primary-fg-color--light: #ECB7B7;
-  --md-primary-fg-color--dark:  #90030C;
+/* Le TOC intégré est séparé et placé après la liste du sous-menu ouvert */
+.md-nav__item--toc {
+  margin-top: 0.75rem;
+  padding-top: 0.75rem;
+  border-top: 1px solid var(--md-default-fg-color--lightest, rgba(0, 0, 0, 0.12));
+}
+
+.md-nav__item--toc .md-nav--secondary {
+  margin: 0;
+  padding: 0.25rem 0 0;
+  background: rgba(0, 0, 0, 0.015);
+  border: 1px solid rgba(0, 0, 0, 0.04);
+  border-radius: 0.5rem;
+}
+
+.md-nav__item--toc .md-nav--secondary .md-nav__title {
+  margin: 0 0 0.5rem;
+  padding: 0.5rem 0.75rem 0;
+  font-size: 0.72rem;
+  line-height: 1.4;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  font-weight: 700;
+  color: var(--md-default-fg-color--light, rgba(0, 0, 0, 0.64));
+}
+
+.md-nav__item--toc .md-nav--secondary .md-nav__list {
+  margin-top: 0.25rem;
+  padding: 0 0.75rem 0.75rem 1rem;
+}
+
+.md-nav__item--toc .md-nav--secondary .md-nav__item {
+  margin-top: 0.15rem;
+}
+
+/* Sous-menus : le nom actif reste en gras, les autres restent standards */
+.md-nav--primary .md-nav__link,
+.md-nav--primary .md-nav__item > .md-nav__link,
+.md-nav--primary .md-nav__item > label.md-nav__link {
+  font-weight: 400;
+}
+
+.md-nav--primary .md-nav__item--active > .md-nav__link,
+.md-nav--primary .md-nav__item--active > label.md-nav__link,
+.md-nav--primary .md-nav__link--active {
+  font-weight: 600;
 }
