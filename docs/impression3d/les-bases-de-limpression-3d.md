@@ -1,5 +1,53 @@
 # Les bases de l'impression 3D
 
+## Les procedés de fabrication additive  
+L'impression 3D, aussi appelée **fabrication additive** dans l'industrie,il en existe 7 grandes fammile:
+
+VAT PHOTOPOLYMERISATION  
+La photopolymérisation utilise une cuve de résine photopolymère liquide. Une plate-forme de construction est abaissée, se déplaçant vers le bas, et un faisceau laser dessine une forme dans la résine, créant une couche. Une fois chaque couche de résine fabriquée, elle doit être durcie à l’aide de lumière ultraviolette (UV). L’utilisation de miroirs motorisés pour diriger les UV sur la surface de la résine la fait durcir.
+
+Idéal pour les pièces avec un haut niveau de précision et de détail ; cependant, il lui manque le support structurel fourni par d’autres types de fabrication additive. De plus, ces pièces ne conviennent pas à une utilisation en extérieur car la couleur et les propriétés mécaniques peuvent se dégrader lorsqu’elles sont exposées aux rayons UV du soleil. Les  supports requis peuvent également laisser des marques et doivent être retirés lors du post-traitement.
+
+EXTRUSION DE MATIERE  
+Fused deposition modeling (FDM) le filament passe à travers une buse et fond pendant le processus d’impression. 
+Dans le même temps, il est progressivement déposé de manière structurée sur une plateforme de fabrication couche par couche jusqu’à ce qu’un objet soit complet. La buse se déplace horizontalement tandis que la plate-forme de construction monte et descend verticalement après le dépôt de chaque couche. Le FDM est souvent utilisé pour la fabrication de prototypes par les entreprises et utilise à la fois des matériaux plastiques et métalliques.
+
+
+---
+
+![](images/Fab-Ad-Technos-1.svg){ width="600"  style="display: block; margin: 0 auto" }
+
+---
+
+
+IMPRESSION 3D SUR LIT DE POUDRE  
+La méthode d’impression 3D sur lit de poudre ou Power Bed Fusion (PBF) utilise une source de chaleur, principalement un laser ou un faisceau d’électrons, pour fusionner les particules de poudre couche par couche jusqu’à ce qu’une pièce solide soit créée. Cette technique crée des pièces avec précision et permet la fabrication de diverses pièces aux géométries complexes. Les fabricants peuvent bénéficier de cette technique de fabrication grâce à ses nombreux matériaux disponibles pour la production, la liberté de conception et ses capacités de production. Cette méthode de fabrication industrielle est idéale pour le prototypage et la production de pièces finies.
+
+MATERIAL JETTING  
+Le material jetting est le processus de dépôt de matière sur une surface sous forme de gouttelettes. Similaire à une imprimante à papier à jet d’encre typique, mais appliquée couche par couche sur une plate-forme de fabrication, puis durcie par la lumière UV.
+
+Le material jetting peut être effectué avec de nombreux matériaux, y compris les polymères et les cires. Ce type de FA est précis et plusieurs matériaux peuvent être utilisés pour un seul projet. Il est généralement utilisé pour les modèles réalistes et le prototypage.
+
+Étant donné que les matériaux sont déposés en gouttes, le meilleur matériau serait les polymères et les cires en raison de leur capacité à former des gouttes.
+
+
+![](images/Fab-Ad-Technos-2.svg){ width="1000"  style="display: block; margin: 0 auto" }
+
+---
+BLINDER JETTING  
+Le Binder Jetting est une méthode d'impression 3D qui utilise deux matériaux : une poudre et un liant. Elle consiste à pulvériser sélectivement le liant sur la couche de poudre et par conséquent lier les particules entre-elles. Tout comme la stéréolithographie, ce procédé offre la possibilité de créer des formes géométriques complexes comparativement à l’extrusion (surplombs, contre-dépouilles, …) car il n’est pas nécessaire d’avoir recours à des supports de fabrication.
+
+SHEET LAMINATION  
+La sheet lamination est le processus de construction d’une pièce 3D en empilant de fines feuilles de matériau, généralement fournies par un système de rouleaux d’alimentation, couche par couche, par collage/soudage par ultrasons ou brasage pour former une seule pièce qui est ensuite découpée au laser ou Usinage CNC pour révéler une pièce imprimée en 3D.
+
+DIRECT ENERGY DISPOSITION  
+Le dépôt sous énergie concentrée ou DED est un procédé de fabrication additive qui consiste en une buse montée sur un bras multi-axes, qui peut se déplacer dans plusieurs directions et n’est pas fixée à un axe spécifique. Cette buse dépose le matériau fondu sur la surface où il se solidifie ensuite. Ce processus est généralement utilisé avec des métaux sous forme de poudre ou de fil.
+
+![](images/Fab-Ad-Technos-3.svg){ width="1000"  style="display: block; margin: 0 auto" }
+
+---
+
+
 ## Processus
 Le processus d'impression 3D comprend trois étapes principales. Tout d'abord, vous devez vous procurer un modèle 3D imprimable. Ensuite, vous devez le préparer pour l'impression, et enfin, la dernière étape est le travail d'impression en lui-même. Voyons tout cela sous un angle général. Puis nous nous pencherons sur les détails.
 
