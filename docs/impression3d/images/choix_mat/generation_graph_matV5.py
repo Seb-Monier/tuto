@@ -54,7 +54,7 @@ CRITERIA_LABELS = [
 
 MATERIALS = [
     {"name": "PLA", "values": [5, 4, 4, 1, 1, 4, 1], "color": "#49096e", "temp" : 55},
-    {"name": "PET", "values": [4, 3, 3, 1, 3, 3, 3], "color": "#b8aa33", "temp" : 80},
+    {"name": "PETG", "values": [4, 3, 3, 1, 3, 3, 3], "color": "#b8aa33", "temp" : 80},
     {"name": "TPU", "values": [1, 2, 2, 5, 5, 3, 3], "color": "#457e34", "temp" : 80},
     {"name": "ABS", "values": [2, 3, 2, 1, 3, 2, 4], "color": "#a06712", "temp" : 85},
     {"name": "PA",  "values": [3, 3, 2, 3, 4, 1, 3], "color": "#2c63ac", "temp" : 70},

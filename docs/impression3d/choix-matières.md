@@ -10,7 +10,7 @@ Pour plus de détails, consultez les fiches correspondante.
 Utilisation | Matière(s) conseillé(s)
 :---: | :---:
 Prototypage, pièces sans contrainte, objets décoratifs / goodies, ne devant pas résister à la chaleur, aux UV ou aux produits chimiques | [PLA](#pla)
-Pièces mécaniques courantes, boîtiers, supports, bonne résistance aux chocs modérés, pièces d'extérieur ou en contact avec l'humidité, bonne résistance chimique, contact alimentaire ponctuel | [PET](#pet)
+Pièces mécaniques courantes, boîtiers, supports, bonne résistance aux chocs modérés, pièces d'extérieur ou en contact avec l'humidité, bonne résistance chimique, contact alimentaire ponctuel | [PETG](#petg)
 Pièces flexibles, amortissantes, joints, gaines de câbles, protections anti-choc | [TPU](#tpu)
 Pièces mécaniques courantes, boîtiers, supports, bonne résistance aux chocs | [ABS](#abs)
 Pièces mécaniques sous forte contrainte, haute résistance thermique et à l'usure, applications techniques exigeantes | [PA](#pa) / [PC](#pc)
@@ -75,15 +75,15 @@ C’est également un matériau qui ne produit pas de COV toxique pendant l’im
 
 ![](images/choix_mat/pla_radar.svg){ width="600"  style="display: block; margin: 0 auto" }
 
-## PET
+## PETG
 
 ### Description
 
-Le PET (Polyethylene Terephthalate Glycol-modified) est un thermoplastique rigide offrant un bon compromis entre facilité d’impression et performances mécaniques.
-Il est plus résistant aux chocs et à la température que le PLA, tout en restant plus simple à imprimer que l’ABS.
-Le PET possède une bonne adhérence inter-couches ainsi qu’une bonne résistance aux contraintes mécaniques et chimiques.
-Son principal défaut est son comportement visqueux lors de l’impression, qui favorise la formation de cheveux d’ange.
-Il est particulièrement adapté aux pièces fonctionnelles, aux boîtiers et aux pièces soumises à des contraintes modérées.
+Le PETG (Polyethylene Terephthalate Glycol-modified) est un thermoplastique rigide offrant un bon compromis entre facilité d’impression et performances mécaniques.  
+Il est plus résistant aux chocs et à la température que le PLA, tout en restant plus simple à imprimer que l’ABS. 
+Le PETG possède une bonne adhérence inter-couches ainsi qu’une bonne résistance aux contraintes mécaniques et chimiques.  
+Son principal défaut est son comportement visqueux lors de l’impression, qui favorise la formation de cheveux d’ange.  
+Il est particulièrement adapté aux pièces fonctionnelles, aux boîtiers et aux pièces soumises à des contraintes modérées.  
 
 ### Avantages et limites
 
@@ -112,17 +112,17 @@ Il est particulièrement adapté aux pièces fonctionnelles, aux boîtiers et au
 
 ### Profil de résistance
 
-![](images/choix_mat/pet_radar.svg){ width="600" style="display: block; margin: 0 auto" }
+![](images/choix_mat/petg_radar.svg){ width="600" style="display: block; margin: 0 auto" }
 
 ## TPU
 
 ### Description
 
-Le TPU (Thermoplastic Polyurethane) est un thermoplastique flexible et élastique utilisé lorsque la pièce doit pouvoir être pliée, étirée ou déformée sans casser.
-Il peut reprendre sa forme après sollicitation et permet ainsi de remplacer certains matériaux caoutchouteux dans des applications techniques.
-La souplesse du TPU dépend de sa dureté Shore, ce qui permet de choisir un matériau plus ou moins flexible selon l’application.
-Il offre une bonne résistance aux chocs et à la déchirure ainsi qu’une capacité intéressante d’amortissement des vibrations.
-Il est particulièrement adapté aux grips, semelles, courroies, coques et pièces d’assemblage.
+Le TPU (Thermoplastic Polyurethane) est un thermoplastique flexible et élastique utilisé lorsque la pièce doit pouvoir être pliée, étirée ou déformée sans casser.  
+Il peut reprendre sa forme après sollicitation et permet ainsi de remplacer certains matériaux caoutchouteux dans des applications techniques.  
+La souplesse du TPU dépend de sa dureté Shore, ce qui permet de choisir un matériau plus ou moins flexible selon l’application.  
+Il offre une bonne résistance aux chocs et à la déchirure ainsi qu’une capacité intéressante d’amortissement des vibrations.  
+Il est particulièrement adapté aux grips, semelles, courroies, coques et pièces d’assemblage.  
 
 ### Avantages et limites
 
@@ -157,11 +157,11 @@ Il est particulièrement adapté aux grips, semelles, courroies, coques et pièc
 
 ### Description
 
-L’ABS (Acrylonitrile Butadiène Styrène) est un thermoplastique rigide et durable offrant une bonne résistance aux chocs et à la chaleur.
-Contrairement au PLA, il a tendance à se déformer avant de casser lorsqu’il est soumis à une contrainte mécanique, ce qui le rend adapté aux pièces fonctionnelles et aux systèmes mécaniques.
-Il est utilisé notamment pour les prototypes fonctionnels, les pièces de remplacement, l’outillage et les mécanismes.
-Son aspect mat permet également de masquer davantage les lignes de couche et offre un rendu plus uniforme.
-L’ABS reste cependant difficile à imprimer en raison des variations thermiques, du risque de warping et de son adhérence inter-couches. Une enceinte fermée est particulièrement recommandée.
+L’ABS (Acrylonitrile Butadiène Styrène) est un thermoplastique rigide et durable offrant une bonne résistance aux chocs et à la chaleur.  
+Contrairement au PLA, il a tendance à se déformer avant de casser lorsqu’il est soumis à une contrainte mécanique, ce qui le rend adapté aux pièces fonctionnelles et aux systèmes mécaniques.  
+Il est utilisé notamment pour les prototypes fonctionnels, les pièces de remplacement, l’outillage et les mécanismes.  
+Son aspect mat permet également de masquer davantage les lignes de couche et offre un rendu plus uniforme.  
+L’ABS reste cependant difficile à imprimer en raison des variations thermiques, du risque de warping et de son adhérence inter-couches. Une enceinte fermée est particulièrement recommandée.  
 
 ### Avantages et limites
 
@@ -196,11 +196,11 @@ L’ABS reste cependant difficile à imprimer en raison des variations thermique
 
 ### Description
 
-Le PA (Polyamide), aussi appelé Nylon, regroupe plusieurs matériaux comme le PA6 et le PA12.
-Il est particulièrement apprécié pour ses bonnes propriétés mécaniques, sa résistance aux chocs, au frottement et à l’usure.
-Sa bonne résistance chimique et sa capacité à supporter des sollicitations répétées en font un matériau adapté aux pièces fonctionnelles et aux pièces d’usure.
-Il est notamment utilisé pour l’outillage, les pièces automobiles et certaines applications médicales.
-Le principal point de vigilance du PA est sa forte sensibilité à l’humidité : le filament doit être conservé au sec et séché avant impression.
+Le PA (Polyamide), aussi appelé Nylon, regroupe plusieurs matériaux comme le PA6 et le PA12.  
+Il est particulièrement apprécié pour ses bonnes propriétés mécaniques, sa résistance aux chocs, au frottement et à l’usure.  
+Sa bonne résistance chimique et sa capacité à supporter des sollicitations répétées en font un matériau adapté aux pièces fonctionnelles et aux pièces d’usure.  
+Il est notamment utilisé pour l’outillage, les pièces automobiles et certaines applications médicales.  
+Le principal point de vigilance du PA est sa forte sensibilité à l’humidité : le filament doit être conservé au sec et séché avant impression.  
 
 ### Avantages et limites
 
@@ -234,12 +234,12 @@ Le principal point de vigilance du PA est sa forte sensibilité à l’humidité
 ## PC
 
 ### Description
-
-Le PC (Polycarbonate) est un thermoplastique technique particulièrement recherché pour sa très forte résistance mécanique et sa résistance aux températures élevées.
-Il offre une excellente résistance aux chocs et conserve ses propriétés dans des environnements chauds.
-Il présente également une bonne stabilité dimensionnelle et peut être utilisé pour des prototypes fonctionnels, des carters, de l’outillage et des pièces automobiles ou industrielles.
-Le PC est cependant un matériau très exigeant à imprimer et nécessite une imprimante capable de maintenir des températures élevées et un environnement thermique stable.
-Une enceinte fermée ainsi qu’un plateau fortement chauffé sont recommandés pour limiter les déformations.
+ 
+Le PC (Polycarbonate) est un thermoplastique technique particulièrement recherché pour sa très forte résistance mécanique et sa résistance aux températures élevées.  
+Il offre une excellente résistance aux chocs et conserve ses propriétés dans des environnements chauds.  
+Il présente également une bonne stabilité dimensionnelle et peut être utilisé pour des prototypes fonctionnels, des carters, de l’outillage et des pièces automobiles ou industrielles.  
+Le PC est cependant un matériau très exigeant à imprimer et nécessite une imprimante capable de maintenir des températures élevées et un environnement thermique stable.  
+Une enceinte fermée ainsi qu’un plateau fortement chauffé sont recommandés pour limiter les déformations.  
 
 ### Avantages et limites
 
@@ -274,11 +274,11 @@ Une enceinte fermée ainsi qu’un plateau fortement chauffé sont recommandés 
 
 ### Description
 
-L’ASA (Acrylonitrile Styrène Acrylate) est un thermoplastique technique proche de l’ABS, mais spécialement intéressant pour les applications exposées aux conditions extérieures.
-Il possède de bonnes propriétés mécaniques et une bonne résistance à la chaleur.
-Sa principale différence avec l’ABS est sa bien meilleure résistance aux rayons UV, ainsi qu’une bonne résistance à l’humidité et aux variations thermiques.
-Cette résistance aux conditions climatiques lui permet d’être utilisé pour des pièces extérieures, des prototypes fonctionnels, de l’outillage ou encore des applications automobiles.
-Comme l’ABS, l’ASA reste cependant sensible aux variations thermiques lors de l’impression et nécessite des conditions d’impression maîtrisées.
+L’ASA (Acrylonitrile Styrène Acrylate) est un thermoplastique technique proche de l’ABS, mais spécialement intéressant pour les applications exposées aux conditions extérieures.  
+Il possède de bonnes propriétés mécaniques et une bonne résistance à la chaleur.  
+Sa principale différence avec l’ABS est sa bien meilleure résistance aux rayons UV, ainsi qu’une bonne résistance à l’humidité et aux variations thermiques.  
+Cette résistance aux conditions climatiques lui permet d’être utilisé pour des pièces extérieures, des prototypes fonctionnels, de l’outillage ou encore des applications automobiles.  
+Comme l’ABS, l’ASA reste cependant sensible aux variations thermiques lors de l’impression et nécessite des conditions d’impression maîtrisées.  
 
 ### Avantages et limites
 

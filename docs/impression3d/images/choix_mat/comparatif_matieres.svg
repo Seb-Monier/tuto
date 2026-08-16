@@ -78,18 +78,18 @@
 <circle cx="617.5" cy="776.5" r="16" fill="#a06712"/>
 <circle cx="617.5" cy="798.5" r="16" fill="#3a3a3b"/>
 <circle cx="730.0" cy="787.5" r="16" fill="#5f2f07"/>
-<circle cx="45.0" cy="40" r="14" fill="#49096e"/>
-<text x="69.0" y="46" font-size="17" font-weight="700" fill="#333333">PLA</text>
-<circle cx="163.0" cy="40" r="14" fill="#b8aa33"/>
-<text x="187.0" y="46" font-size="17" font-weight="700" fill="#333333">PET</text>
-<circle cx="281.0" cy="40" r="14" fill="#457e34"/>
-<text x="305.0" y="46" font-size="17" font-weight="700" fill="#333333">TPU</text>
-<circle cx="399.0" cy="40" r="14" fill="#a06712"/>
-<text x="423.0" y="46" font-size="17" font-weight="700" fill="#333333">ABS</text>
-<circle cx="517.0" cy="40" r="14" fill="#2c63ac"/>
-<text x="541.0" y="46" font-size="17" font-weight="700" fill="#333333">PA</text>
-<circle cx="625.0" cy="40" r="14" fill="#5f2f07"/>
-<text x="649.0" y="46" font-size="17" font-weight="700" fill="#333333">PC</text>
-<circle cx="733.0" cy="40" r="14" fill="#3a3a3b"/>
-<text x="757.0" y="46" font-size="17" font-weight="700" fill="#333333">ASA</text>
+<circle cx="40.0" cy="40" r="14" fill="#49096e"/>
+<text x="64.0" y="46" font-size="17" font-weight="700" fill="#333333">PLA</text>
+<circle cx="158.0" cy="40" r="14" fill="#b8aa33"/>
+<text x="182.0" y="46" font-size="17" font-weight="700" fill="#333333">PETG</text>
+<circle cx="286.0" cy="40" r="14" fill="#457e34"/>
+<text x="310.0" y="46" font-size="17" font-weight="700" fill="#333333">TPU</text>
+<circle cx="404.0" cy="40" r="14" fill="#a06712"/>
+<text x="428.0" y="46" font-size="17" font-weight="700" fill="#333333">ABS</text>
+<circle cx="522.0" cy="40" r="14" fill="#2c63ac"/>
+<text x="546.0" y="46" font-size="17" font-weight="700" fill="#333333">PA</text>
+<circle cx="630.0" cy="40" r="14" fill="#5f2f07"/>
+<text x="654.0" y="46" font-size="17" font-weight="700" fill="#333333">PC</text>
+<circle cx="738.0" cy="40" r="14" fill="#3a3a3b"/>
+<text x="762.0" y="46" font-size="17" font-weight="700" fill="#333333">ASA</text>
 </svg>

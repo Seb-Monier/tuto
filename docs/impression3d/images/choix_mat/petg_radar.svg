@@ -1,6 +1,6 @@
 <svg viewBox="-10 0 670 540" xmlns="http://www.w3.org/2000/svg" font-family="Arial, Helvetica, sans-serif">
 <rect x="-10" y="0" width="670" height="540" fill="white"/>
-<text x="60" y="50" font-size="35" font-weight="800" fill= "#b8aa33" text-anchor="middle">PET</text>
+<text x="60" y="50" font-size="35" font-weight="800" fill= "#b8aa33" text-anchor="middle">PETG</text>
 <polygon points="320.0,216.0 346.6,228.8 353.1,257.6 334.8,280.6 305.2,280.6 286.9,257.6 293.4,228.8" fill="none" stroke="#cbd5e1" stroke-width="1"/>
 <polygon points="320.0,182.0 373.2,207.6 386.3,265.1 349.5,311.3 290.5,311.3 253.7,265.1 266.8,207.6" fill="none" stroke="#cbd5e1" stroke-width="1"/>
 <polygon points="320.0,148.0 399.7,186.4 419.4,272.7 364.3,341.9 275.7,341.9 220.6,272.7 240.3,186.4" fill="none" stroke="#cbd5e1" stroke-width="1"/>
