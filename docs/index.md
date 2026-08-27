@@ -9,16 +9,61 @@ hide:
   <h1 style="margin: 0;">Bienvenue</h1>
 </div>
 
-<div style="text-align: left; margin: 24px 0 36px 0;">
+<div style="text-align: center; margin: 24px 0 36px 0;">
   <p style="font-size: .80rem; line-height: 1.8;  margin: 0 auto;">
-    Vous trouverez ici les informations utiles pour découvrir les plateformes technologiques à votre disposition, apprendre à utiliser les machines et préparer vos projets.<br>
+    Vous trouverez ici les informations utiles pour découvrir les plateformes technologiques , apprendre à utiliser les équipements et préparer vos projets.<br>
     L'utilisation des machines est disponible pour tous les membres de l'organisation.<br>
     Elle est soumise à des règles de sécurité et d'utilisation.<br>
     Vous pouvez demander à être formé, quelle que soit votre formation initiale, et y être habilité pour une utilisation en toute autonomie.
   </p>
 </div>
 
-## Téchnologies :
+
+<div style="text-align: center; margin: 12px 0 24px 0;">
+  <h1 style="margin: 0;">Accès rapide</h1>
+</div>
+
+
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(240px, 1fr)); gap: 24px; margin: 36px 0;">
+
+
+
+  <div style="border: 1px solid #cbd5e1; border-radius: 10px; padding: 2px; background: #eef6ff; text-align: center; display: flex; flex-direction: column; align-items: center; justify-content: space-between; height: 100%; font-size: 0.8rem;">
+    <div>
+    <p><a href="impression3d/demarrage_rapide.md" class="md-button md-button--primary" style="font-size: 1rem; padding: 0.4rem 1rem;">Impression 3D</a></p>
+      <p>Premiers pas<br>
+       Étapes essentielles<br>
+       Choix des matériaux</p>
+    </div>
+  </div>
+
+  <div style="border: 1px solid #cbd5e1; border-radius: 10px; padding: 2px; background: #f0ffed; text-align: center; display: flex; flex-direction: column; align-items: center; justify-content: space-between; height: 100%; font-size: 0.8rem;">
+    <div>
+    <p><a href="fusion360/installation.md" class="md-button md-button--primary" style="font-size: 1rem; padding: 0.4rem 1rem;">Fusion 360</a></p>
+      <p>
+      Création du compte éducation<br>
+      Présentation de l'environnement<br>
+      Tutoriels vidéo</p>
+    </div>
+  </div>
+
+  <div style="border: 1px solid #cbd5e1; border-radius: 10px; padding: 2px; background: #fff9ed; text-align: center; display: flex; flex-direction: column; align-items: center; justify-content: space-between; height: 100%; font-size: 0.8rem;">
+    <div>
+    <p><a href="fiches-secu/fiches-secu.md" class="md-button md-button--primary" style="font-size: 1rem; padding: 0.4rem 1rem;">Sécurité</a></p>
+      <p>Fiches de sécurité<br> Règles<br> Bonnes pratiques</p>
+    </div>
+
+  </div>
+
+</div>
+
+
+
+
+<div style="text-align: center; margin: 12px 0 24px 0;">
+  <h1 style="margin: 0;">Téchnologies</h1>
+</div>
+
 
 <div style="text-align: center;">
   <div style="display: inline-block; text-align: center; margin: 10px 20px;">
@@ -59,41 +104,6 @@ hide:
     </a><br>
     <em>Recyclage</em>
   </div>
-</div>
-
-## Accès rapide :
-
-<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(240px, 1fr)); gap: 24px; margin: 36px 0;">
-
-
-
-  <div style="border: 1px solid #cbd5e1; border-radius: 10px; padding: 24px; background: #eef6ff; text-align: center; display: flex; flex-direction: column; align-items: center; justify-content: space-between; height: 100%; font-size: 0.8rem;">
-    <div>
-    <p><a href="technologies/impression3d.md" class="md-button md-button--primary" style="font-size: 1rem; padding: 0.6rem 1rem;">Impression 3D</a></p>
-      <p>Premiers pas<br>
-       Étapes essentielles<br>
-       Choix des matériaux</p>
-    </div>
-  </div>
-
-  <div style="border: 1px solid #cbd5e1; border-radius: 10px; padding: 24px; background: #f0ffed; text-align: center; display: flex; flex-direction: column; align-items: center; justify-content: space-between; height: 100%; font-size: 0.8rem;">
-    <div>
-    <p><a href="fusion360/installation.md" class="md-button md-button--primary" style="font-size: 1rem; padding: 0.6rem 1rem;">Fusion 360</a></p>
-      <p>
-      Création du compte éducation<br>
-      Présentation de l'environnement<br>
-      Tutoriels vidéo</p>
-    </div>
-  </div>
-
-  <div style="border: 1px solid #cbd5e1; border-radius: 10px; padding: 24px; background: #fff9ed; text-align: center; display: flex; flex-direction: column; align-items: center; justify-content: space-between; height: 100%; font-size: 0.8rem;">
-    <div>
-    <p><a href="fiches-secu/fiches-secu.md" class="md-button md-button--primary" style="font-size: 1rem; padding: 0.6rem 1rem;">Sécurité</a></p>
-      <p>Fiches de sécurité<br> Règles<br> Bonnes pratiques</p>
-    </div>
-
-  </div>
-
 </div>
 
 
