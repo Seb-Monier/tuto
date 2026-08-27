@@ -40,8 +40,13 @@ hide:
     <em>Usinage</em>
   </div>
 </div>
-
 <div style="text-align: center; margin-top: 16px;">
+  <div style="display: inline-block; text-align: center; margin: 10px 20px;">
+    <a href="technologies/robotique.md">
+      <img src="picto/picto-robot.svg" alt="Robotique" width="200" class="off-glb">
+    </a><br>
+    <em>Robotique</em>
+  </div>
   <div style="display: inline-block; text-align: center; margin: 10px 20px;">
     <a href="technologies/electronique.md">
       <img src="picto/picto-electronique.svg" alt="Électronique" width="200" class="off-glb">

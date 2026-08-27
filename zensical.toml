@@ -50,6 +50,7 @@ nav = [
     { "Impression 3D / Fabrication additive" = "technologies/impression3d.md" },
     { "Découpe laser / Jet d'eau" = "technologies/decoupe-laser.md" },
     { "Usinage" = "technologies/usinage.md" },
+    { "Robotique" = "technologies/robotique.md" },
     { "Électronique" = "technologies/electronique.md" },
     { "Recyclage" = "technologies/recyclage.md" },
   ]},
