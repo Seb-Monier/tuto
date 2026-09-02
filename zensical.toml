@@ -57,7 +57,7 @@ nav = [
   { "Impression 3D" = [
     { "Démarrage rapide" = "impression3d/demarrage_rapide.md" },
     { "Où trouver des modèles 3D" = "impression3d/ou_trouver_des_models_3d.md" },
-    { "Choix de la matières" = "impression3d/choix-matières.md" },
+    { "Choix de la matière" = "impression3d/choix-matières.md" },
     { "Les bases de l'impression 3D" = "impression3d/les-bases-de-limpression-3d.md" },
     { "Documentations" = "impression3d/documentations_imp3d.md" },
   ]},
