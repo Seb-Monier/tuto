@@ -36,21 +36,6 @@ Le moyen le plus facile pour débuter dans l'impression 3D consiste à trouver d
 
 ---
 
-### <a href="https://www.printables.com/" target="_blank" rel="noopener noreferrer">Printables</a>
-
-**Plateforme** : Ultimaker  
-**Formats** : `[STL]`  
-**Inscription** : Sans 
-
-
-- **Avantage** : Meilleure qualité de documentation
-- Idéal pour : Débutants, projets pédagogiques
-- Fichiers prêts à imprimer, souvent multi-compatibles
-- Concours réguliers, très utile pour projets pédagogiques
-
-
----
-
 ### <a href="https://www.thingiverse.com/" target="_blank" rel="noopener noreferrer">Thingiverse</a>
 
 **Plateforme** : MakerBot (plus ancienne bibliothèque communautaire)  

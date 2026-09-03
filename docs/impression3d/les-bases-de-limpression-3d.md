@@ -1,7 +1,7 @@
 # Les bases de l'impression 3D
 
 ## Les procedés de fabrication additive  
-L'impression 3D, aussi appelée **fabrication additive** dans l'industrie,il en existe 7 grandes fammile:
+L'impression 3D, aussi appelée **fabrication additive** peut être regroupée en 7 grandes familles:
 
 VAT PHOTOPOLYMERISATION  
 La photopolymérisation utilise une cuve de résine photopolymère liquide. Une plate-forme de construction est abaissée, se déplaçant vers le bas, et un faisceau laser dessine une forme dans la résine, créant une couche. Une fois chaque couche de résine fabriquée, elle doit être durcie à l’aide de lumière ultraviolette (UV). L’utilisation de miroirs motorisés pour diriger les UV sur la surface de la résine la fait durcir.

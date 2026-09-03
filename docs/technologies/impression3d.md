@@ -1,7 +1,7 @@
 # Impression 3D / Fabrication additive
 
-L'impression 3D, aussi appelée **fabrication additive** dans l'industrie, est un procédé de production qui crée des objets physiques tridimensionnels par ajout de matière couche par couche.
-Cette technologie permet de réaliser des géométries complexes, des structures légères et des pièces personnalisées sans nécessiter de moules ou d'outillage spécifique, contrairement aux méthodes traditionnelles dites « soustractives » qui enlèvent de la matière à un bloc ou d'injection qui envoie de la matière dans un moule.
+L'impression 3D, aussi appelée **fabrication additive** dans l'industrie, est un procédé de production qui crée des objets physiques tridimensionnels par ajout de matière couche par couche.  
+Cette technologie permet de réaliser des géométries complexes, des structures légères et des pièces personnalisées sans nécessiter de moules ou d'outillage spécifique, contrairement aux méthodes traditionnelles dites « soustractives » qui enlèvent de la matière à un bloc ou d'injection qui injecte de la matière dans un moule.
 
 **[Guide pour un démarrage rapide avec les imprimantes 3D](../impression3d/demarrage_rapide.md)**
 
@@ -20,7 +20,7 @@ Le FDM consiste à déposer un filament de matière fondue couche par couche pou
 Avantage : coût abordable, matériaux variés, multicolors / multimatériaux sur certaines machines.
 Inconvénient : résolution limitée, finition de surface moins lisse.
 
-#### Bambulab X1C :
+#### Bambulab X1C
 <!--div style="display: flex; align-items: center; gap: 20px;flex-direction: row-reverse;"-->
 <div style="display: flex; align-items: center; gap: 20px;">
 <img src="img-machines\bambulabX1_.jpg" alt="Description" width=200" />
@@ -32,7 +32,7 @@ Matériaux compatibles : PLA, PETG, ABS, ASA, TPU, PC, PP et PA.<br>
 </div>
 </div>
 
-#### Prusa XL :
+#### Prusa XL
 <!--div style="display: flex; align-items: center; gap: 20px;flex-direction: row-reverse;"-->
 <div style="display: flex; align-items: center; gap: 20px;">
     <img src="img-machines\prusa-xl.jpg" alt="Description" width="500" />
@@ -45,7 +45,7 @@ Matériaux compatibles : PLA, PETG, ABS, ASA, TPU, PC, PA et matériaux chargés
     </div>
 </div>
 
-#### Markforged Mark Two :
+#### Markforged Mark Two
 <div style="display: flex; align-items: center; gap: 20px;">
 <img src="img-machines\mark-two.jpg" alt="Description" width="800" />
 <div>
@@ -57,7 +57,7 @@ Matériaux compatibles : Onyx (nylon chargé fibre de carbone courte), Nylon, ai
 </div>
 </div>
 
-#### Lynxter S600D :
+#### Lynxter S600D
 <div style="display: flex; align-items: center; gap: 20px;">
 <img src="img-machines\linxter.png" alt="Description" width="400" />
 <div>
@@ -74,7 +74,7 @@ Le SLA utilise un laser ultraviolet pour solidifier une résine photosensible co
 Avantage : haute résolution, surface lisse, idéal pour les modèles complexes et les figurines.<br>
 Inconvénient : matériaux limités, post-traitement compliqué (nettoyage et durcissement), coût plus élevé que le FDM.
 
-#### FormLabs Form 3 :
+#### FormLabs Form 3
 <div style="display: flex; align-items: center; gap: 20px;">
 <img src="img-machines\formlabs.jpg" alt="Description" width="500" />
 <div>
@@ -87,16 +87,16 @@ Matériaux compatibles : résines liquides (standard, tough/durable, dentaire, b
 </div>
 
 ## L-PBF (Laser Powder Bed Fusion)
-Le L-PBF utilise un laser pour fusionner des particules de poudre métallique ou plastique couche par couche, permettant de créer des pièces métalliques ou plastiques avec une grande précision et robustesse.<br>
+Le L-PBF utilise un laser pour fondre des particules de poudre métallique couche par couche, permettant de créer des pièces métalliques avec une grande précision et robustesse.<br>
 Inconvénient : infrastructure sécurisée, coût élevé, post-traitement long (découpe, décapage, traitement thermique).
 
-#### AddUp Formup 350 :
+#### AddUp Formup 350
 <div style="display: flex; align-items: center; gap: 20px;">
     <img src="img-machines\addup-formup.jpg" alt="AddUp FormUp 350" width="500" />
     <div>
     <p>
 Imprimante Metal L-PBF volume maximal de 350 x 350 x 350 mm.<br>
-Conteneuriser afin de sécuriser son utilisation et la contamination due à la poudre métallique.<br>
+Conteneurisée afin de sécuriser son utilisation et la contamination due à la poudre métallique.<br>
 Matériaux compatibles : 316L (acier inoxydable), MARVAL 18 (Acier Maraging), Ti6Al4V (Titane).<br>
     </p>
     </div>

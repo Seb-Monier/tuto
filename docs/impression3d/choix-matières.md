@@ -1,20 +1,20 @@
 
-# Choix de la matières
+# Choix de la matière
 
 ## Comparatif
 
-Le choix de la matières dépend avant tout de l'usage final de la pièce : contraintes mécaniques, exposition à la chaleur, aux UV ou aux produits chimiques, besoin de flexibilité...   
+Le choix de la matière dépend avant tout de l'usage final de la pièce : contraintes mécaniques, exposition à la chaleur, aux UV ou aux produits chimiques, besoin de flexibilité...   
 Le tableau ci-dessous vous aide à orienter rapidement votre choix.  
-Pour plus de détails, consultez les fiches correspondante.
+Pour plus de détails, consultez les fiches correspondantes.
 
-Utilisation | Matière(s) conseillé(s)
+Matière(s) conseillé(s) | Utilisation
 :---: | :---:
-Prototypage, pièces sans contrainte, objets décoratifs / goodies, ne devant pas résister à la chaleur, aux UV ou aux produits chimiques | [PLA](#pla)
-Pièces mécaniques courantes, boîtiers, supports, bonne résistance aux chocs modérés, pièces d'extérieur ou en contact avec l'humidité, bonne résistance chimique, contact alimentaire ponctuel | [PETG](#petg)
-Pièces flexibles, amortissantes, joints, gaines de câbles, protections anti-choc | [TPU](#tpu)
-Pièces mécaniques courantes, boîtiers, supports, bonne résistance aux chocs | [ABS](#abs)
-Pièces mécaniques sous forte contrainte, haute résistance thermique et à l'usure, applications techniques exigeantes | [PA](#pa) / [PC](#pc)
-Pièces d'extérieur exposées aux UV et aux intempéries, nécessitant une bonne stabilité de couleur dans le temps | [ASA](#asa)
+ **[PLA](#pla)** |Prototypage, pièces sans contrainte, objets décoratifs / goodies, ne devant pas résister à la chaleur, aux UV ou aux produits chimiques
+ **[PETG](#petg)** |Pièces mécaniques courantes, boîtiers, supports, bonne résistance aux chocs modérés, pièces d'extérieur ou en contact avec l'humidité, bonne résistance chimique, contact alimentaire ponctuel
+ **[TPU](#tpu)** |Pièces flexibles, amortissantes, joints, gaines de câbles, protections anti-choc
+ **[ABS](#abs)** |Pièces mécaniques courantes, boîtiers, supports, bonne résistance aux chocs
+ **[PA](#pa)** / **[PC](#pc)** |Pièces mécaniques sous forte contrainte, haute résistance thermique et à l'usure, applications techniques exigeantes
+ **[ASA](#asa)** |Pièces d'extérieur exposées aux UV et aux intempéries, nécessitant une bonne stabilité de couleur dans le temps
 
 
 

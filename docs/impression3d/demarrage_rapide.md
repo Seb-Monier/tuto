@@ -168,14 +168,14 @@ Puis cliquez sur **Queue**.
 
 Vérifiez sur l'imprimante 3D :
 
- - [x] Que le plateau d'impression est vide et sans résidu
+ - [x] Que le plateau d'impression soit vide et sans résidu
  - [x] Que le plateau soit bien positionné  
  - [x] Que rien ne gêne les axes  
- - [x] Que la quantité de filaments est suffisante pour votre impression,  
+ - [x] Que la quantité de filaments soit suffisante pour votre impression,  
  *voir l'onglet aperçu de Bambu Studio* 
 
 
-<font size="6"> **:warning: Prévenez un responsable pour qu'il puisse valider l'impression et l'envoyer en production. :warning:** </font>
+<font size="6"> **:warning: Prévenez un responsable pour qu'il puisse valider l'impression avant de l'envoyer en production. :warning:** </font>
 
 :warning: **Restez impérativement là pour vérifier les premières couches d'impression.** :warning:  
 C'est souvent à ce moment que l'on détecte les problèmes d'impression.

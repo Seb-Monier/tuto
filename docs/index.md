@@ -11,7 +11,7 @@ hide:
 
 <div style="text-align: center; margin: 24px 0 36px 0;">
   <p style="font-size: .80rem; line-height: 1.8;  margin: 0 auto;">
-    Vous trouverez ici les informations utiles pour découvrir les plateformes technologiques , apprendre à utiliser les équipements et préparer vos projets.<br>
+    Vous trouverez ici les informations utiles pour découvrir les plateformes technologiques, apprendre à utiliser les équipements et préparer vos projets.<br>
     L'utilisation des machines est disponible pour tous les membres de l'organisation.<br>
     Elle est soumise à des règles de sécurité et d'utilisation.<br>
     Vous pouvez demander à être formé, quelle que soit votre formation initiale, et y être habilité pour une utilisation en toute autonomie.
@@ -61,7 +61,7 @@ hide:
 
 
 <div style="text-align: center; margin: 12px 0 24px 0;">
-  <h1 style="margin: 0;">Téchnologies</h1>
+  <h1 style="margin: 0;">Technologies</h1>
 </div>
 
 
