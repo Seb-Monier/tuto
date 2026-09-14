@@ -47,7 +47,7 @@ Copyright &copy; 2026 Monier Sebastien
 nav = [
   { "Accueil" = "index.md" },
   { "Technologies" = [
-    { "Impression 3D / Fabrication additive" = "technologies/impression3d.md" },
+    { "Impression 3D / Fabrication additive" = "technologies/index.md" },
     { "Découpe laser / Jet d'eau" = "technologies/decoupe-laser.md" },
     { "Usinage" = "technologies/usinage.md" },
     { "Robotique" = "technologies/robotique.md" },
@@ -55,18 +55,18 @@ nav = [
     { "Recyclage" = "technologies/recyclage.md" },
   ]},
   { "Impression 3D" = [
-    { "Démarrage rapide" = "impression3d/demarrage_rapide.md" },
+    { "Démarrage rapide" = "impression3d/index.md" },
     { "Où trouver des modèles 3D" = "impression3d/ou_trouver_des_models_3d.md" },
     { "Choix de la matière" = "impression3d/choix-matières.md" },
     { "Les bases de l'impression 3D" = "impression3d/les-bases-de-limpression-3d.md" },
     { "Documentations" = "impression3d/documentations_imp3d.md" },
   ]},
   { "Fusion 360" = [
-    { "Installation" = "fusion360/installation.md" },
+    { "Installation" = "fusion360/index.md" },
     { "1er pas sur Fusion 360" = "fusion360/1er-pas-fusion-360.md" },
     { "Tutos / Exos" = "fusion360/ressources-fusion-360.md" },
   ]},
-  { "Fiches de sécurité" = "fiches-secu/fiches-secu.md" },
+  { "Fiches de sécurité" = "fiches-secu/index.md" },
 ]
 
 # With the "extra_css" option you can add your own CSS styling to customize

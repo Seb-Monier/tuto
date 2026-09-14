@@ -21,7 +21,7 @@ hide:
 ## Téchnologies
 <div style="text-align: center;">
   <div style="display: inline-block; text-align: center; margin: 10px 20px;">
-    <a href="technologies/impression3d.md">
+    <a href="technologies/index.md">
       <img src="picto/picto-imp3d.svg" alt="Impression 3D" width="200" class="off-glb">
     </a><br>
     <em>Impression 3D<br>Fabrication additive</em>
@@ -63,7 +63,7 @@ hide:
 
   <div style="border: 1px solid #cbd5e1; border-radius: 10px; padding: 24px; background: #eef6ff; text-align: center; display: flex; flex-direction: column; align-items: center; justify-content: space-between; height: 100%; font-size: 0.8rem;">
     <div>
-    <p><a href="technologies/impression3d.md" class="md-button md-button--primary" style="font-size: 1rem; padding: 0.6rem 1rem;">Impression 3D</a></p>
+    <p><a href="technologies/index.md" class="md-button md-button--primary" style="font-size: 1rem; padding: 0.6rem 1rem;">Impression 3D</a></p>
       <p>Premiers pas<br>
        Étapes essentielles<br>
        Choix des matériaux</p>
@@ -82,7 +82,7 @@ hide:
 
   <div style="border: 1px solid #cbd5e1; border-radius: 10px; padding: 24px; background: #fff9ed; text-align: center; display: flex; flex-direction: column; align-items: center; justify-content: space-between; height: 100%; font-size: 0.8rem;">
     <div>
-    <p><a href="fiches-secu/fiches-secu.md" class="md-button md-button--primary" style="font-size: 1rem; padding: 0.6rem 1rem;">Sécurité</a></p>
+    <p><a href="fiches-secu/index.md" class="md-button md-button--primary" style="font-size: 1rem; padding: 0.6rem 1rem;">Sécurité</a></p>
       <p>Fiches de sécurité<br> Règles<br> Bonnes pratiques</p>
     </div>
 

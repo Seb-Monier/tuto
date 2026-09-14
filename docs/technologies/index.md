@@ -3,7 +3,7 @@
 L'impression 3D, aussi appelée **fabrication additive** dans l'industrie, est un procédé de production qui crée des objets physiques tridimensionnels par ajout de matière couche par couche.  
 Cette technologie permet de réaliser des géométries complexes, des structures légères et des pièces personnalisées sans nécessiter de moules ou d'outillage spécifique, contrairement aux méthodes traditionnelles dites « soustractives » qui enlèvent de la matière à un bloc ou d'injection qui injecte de la matière dans un moule.
 
-**[Guide pour un démarrage rapide avec les imprimantes 3D](../impression3d/demarrage_rapide.md)**
+**[Guide pour un démarrage rapide avec les imprimantes 3D](../impression3d/index.md)**
 
 ## Principaux aspects :
 
@@ -35,7 +35,7 @@ Matériaux compatibles : PLA, PETG, ABS, ASA, TPU, PC, PP et PA.<br>
 #### Prusa XL
 <!--div style="display: flex; align-items: center; gap: 20px;flex-direction: row-reverse;"-->
 <div style="display: flex; align-items: center; gap: 20px;">
-    <img src="img-machines\prusa-xl.jpg" alt="Description" width="500" />
+    <img src="img-machines/prusa-xl.jpg" alt="Description" width="500" />
     <div>
     <p>
 Imprimante 3D FDM (dépôt de fil fondu), de type CoreXY, avec un volume maximal de 360 x 360 x 360 mm.<br>
@@ -47,7 +47,7 @@ Matériaux compatibles : PLA, PETG, ABS, ASA, TPU, PC, PA et matériaux chargés
 
 #### Markforged Mark Two
 <div style="display: flex; align-items: center; gap: 20px;">
-<img src="img-machines\mark-two.jpg" alt="Description" width="800" />
+<img src="img-machines/mark-two.jpg" alt="Description" width="800" />
 <div>
 <p>
 Imprimante 3D FDM utilisant la technologie CFR (Continuous Fiber Reinforcement / fabrication par filament continu) : une seconde buse dépose une fibre continue (carbone, verre, Kevlar) au sein d'une matrice thermoplastique, pour des pièces aussi résistantes que de l'aluminium usiné.<br>
@@ -59,7 +59,7 @@ Matériaux compatibles : Onyx (nylon chargé fibre de carbone courte), Nylon, ai
 
 #### Lynxter S600D
 <div style="display: flex; align-items: center; gap: 20px;">
-<img src="img-machines\linxter.png" alt="Description" width="400" />
+<img src="img-machines/linxter.png" alt="Description" width="400" />
 <div>
 <p>
 Imprimante 3D industrielle modulaire et multi-procédés (française) : selon la tête-outil installée, elle imprime par extrusion de filament thermoplastique (FDM/FFF), de silicone/polyuréthane liquide, ou de pâte céramique.<br>
@@ -76,7 +76,7 @@ Inconvénient : matériaux limités, post-traitement compliqué (nettoyage et du
 
 #### FormLabs Form 3
 <div style="display: flex; align-items: center; gap: 20px;">
-<img src="img-machines\formlabs.jpg" alt="Description" width="500" />
+<img src="img-machines/formlabs.jpg" alt="Description" width="500" />
 <div>
 <p>
 Imprimante 3D SLA (stéréolithographie) utilisant la technologie LFS (Low Force Stereolithography) : un laser polymérise une résine photosensible couche par couche, pour un excellent état de surface et une haute précision.<br>
@@ -92,7 +92,7 @@ Inconvénient : infrastructure sécurisée, coût élevé, post-traitement long 
 
 #### AddUp Formup 350
 <div style="display: flex; align-items: center; gap: 20px;">
-    <img src="img-machines\addup-formup.jpg" alt="AddUp FormUp 350" width="500" />
+    <img src="img-machines/addup-formup.jpg" alt="AddUp FormUp 350" width="500" />
     <div>
     <p>
 Imprimante Metal L-PBF volume maximal de 350 x 350 x 350 mm.<br>
