@@ -64,7 +64,7 @@ nav = [
   { "Fusion 360" = [
     { "Installation" = "fusion360/index.md" },
     { "1er pas sur Fusion 360" = "fusion360/1er-pas-fusion-360.md" },
-    { "Tutos / Exos" = "fusion360/ressources-fusion-360.md" },
+    { "Tutos / Exos" = "fusion360/tutos_exos.md" },
   ]},
   { "Fiches de sécurité" = "fiches-secu/index.md" },
 ]
