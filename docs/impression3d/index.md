@@ -67,7 +67,8 @@ Si ce n'est pas fait : [Téléchargement du modèle 3D](#i-telechargement-du-mod
 
 Dans la barre d'outils supérieure, cliquez sur l'icône **ajouter** pour importer le modèle 3D.  
 Vous pouvez également faire un glisser-déposer.  
-Les fichiers pris en charge sont .3mf .stl .stp .step .amf .obj.   
+Les fichiers pris en charge sont .3mf .stl .stp .step .amf .obj.  
+Vous pouvez également importer un fichier compressé .zip contenant un ou plusieurs fichiers 3D.
 
 ![](images/bambu/insertion.jpeg)
 
@@ -123,7 +124,7 @@ L'envoi du fichier à l'imprimante 3D se fait via le serveur 3D Printer OS.
 
 ### 1. Création du compte
 
-Créer votre compte sur le site <a href="https://cloud.3dprinteros.com" target="_blank" rel="noopener noreferrer"> 3D Printer OS </a>.  
+Créer votre compte sur le site <a href="https://eu.3dprinteros.com" target="_blank" rel="noopener noreferrer"> 3D Printer OS </a>.  
 Utiliser votre adresse mail étudiante. 
 
 ### 2. Ajouter les imprimantes (WorkGroup)
